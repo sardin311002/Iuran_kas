@@ -1,4 +1,4 @@
-# CodeIgniter 4 Aplikasi Iuran Kas RT 
+# Aplikasi Iuran Kas RT Nim Ganjil
 | Nama          |    Sardin      |
 |-------------- | ---------------|
 | NIM           | 312010135      |
