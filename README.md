@@ -1,4 +1,4 @@
-# Aplikasi Iuran Kas RT Nim Ganjil
+#  UAS Aplikasi Iuran Kas RT Nim Ganjil
 | Nama          |    Sardin      |
 |-------------- | ---------------|
 | NIM           | 312010135      |
