@@ -8,7 +8,7 @@
 
 # UJIAN AKHIR SEMESTER GENAP (MEMBUAT APLIKASI IURAN KAS RT)
 
-## Link Video Youtube Review Sistem Iuan Kas Rt :
+## Link Video Youtube Review Sistem Iuran Kas Rt :
 
 https://www.youtube.com/watch?v=2CbsMD4kkB8
 
